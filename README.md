@@ -14,6 +14,8 @@ Likely has been saved within a "GitHub" folder created by GitHub Desktop.
 
 5. Click file, open, and choose "Emoji_Data_Tutorial.py"
 
-6. Have fun! Google for tips and tricks if something isn't working!
+6. When ready to run .py file click "Run" and "Run module"
 
-7. When ready to run .py file click "Run" and "Run module"
+7. Have fun! Google for tips and tricks if something isn't working!
+
+
